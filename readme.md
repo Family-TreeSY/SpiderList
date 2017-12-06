@@ -5,5 +5,6 @@
 3. [Python爬取豆瓣小说](https://github.com/Family-TreeSY/SpiderList/tree/master/douban_reading)
 4. [模拟登陆豆瓣](https://github.com/Family-TreeSY/SpiderList/tree/master/login_douban)
 5. [模拟登陆GitHub](https://github.com/Family-TreeSY/SpiderList/tree/master/login_github)
+6. [Scrapy爬取豆瓣TOP250]()，这是个Scrapy进阶学习，用正则定义爬取规则（CrawlRule）,将数据存入MongoDBpipeline项目管道
 
 这个仓库我会不定时更新以此来督促自己学习！亲们！假如喜欢点个star呗！！！
