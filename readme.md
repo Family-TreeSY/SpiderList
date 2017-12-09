@@ -6,5 +6,6 @@
 4. [模拟登陆豆瓣](https://github.com/Family-TreeSY/SpiderList/tree/master/login_douban)
 5. [模拟登陆GitHub](https://github.com/Family-TreeSY/SpiderList/tree/master/login_github)
 6. [Scrapy爬取豆瓣TOP250]()，这是个Scrapy进阶学习，用正则定义爬取规则（CrawlRule）,将数据存入MongoDBpipeline项目管道
+7. [爬取拉钩上海Python职位信息](https://github.com/Family-TreeSY/SpiderList/blob/master/lagou/lagou_spider.py)，这个爬虫让我简单了解了Ajax，算是长知识了！！
 
-这个仓库我会不定时更新以此来督促自己学习！亲们！假如喜欢点个star呗！！！
+这个爬虫集合我会不定时更新以此来督促自己学习！亲们！假如喜欢点个star呗！！！互勉！！！！！！！！
