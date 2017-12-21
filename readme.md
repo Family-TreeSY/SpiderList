@@ -10,8 +10,12 @@
 8. [爬取今日头条江歌案新闻信息](https://github.com/Family-TreeSY/SpiderList/blob/master/toutiao/toutiao_spider.py)
 9. [猫眼TOP100电影](https://github.com/Family-TreeSY/SpiderList/blob/master/MaoyanTop100/MaoyanTop100.py)，增加了进程池实现了秒抓， - *-！！！！！！
 10. [抓取电影芳华豆瓣影评](https://github.com/Family-TreeSY/SpiderList/blob/master/douban_fanghua/fanghua_spider.py)，这几天被芳华刷屏了，又没时间去电影院看，所以就爬取了芳华的影评假装当看了 ··········
+11. [Scrapy爬取猫眼电影](https://github.com/Family-TreeSY/SpiderList/tree/master/maoyan)这个爬虫爬取效率很低！！我设置了delay，不设置么稍微一动就直接被封掉了，总共有23110页，每页有30条数据，总共693300条数据，就算不被ban掉，那得爬到猴年马月.................
+![](http://m.qpic.cn/psb?/V10WDaE22S84Sl/YpE56Kh92bW7VYgfxOKF0xXwbjliiubEHdpLd3NizM8!/b/dPMAAAAAAAAA&bo=5AJ5AQAAAAADB7w!&rf=viewer_4)
+是时候去学习scrapy-redis分布式爬虫了.....................................
 
 
+----------
 
 
 这个爬虫集合我会不定时更新以此来督促自己学习！亲们！假如喜欢点个star呗！！！互勉！！！！！！！！
