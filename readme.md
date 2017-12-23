@@ -13,6 +13,7 @@
 11. [Scrapy爬取猫眼电影](https://github.com/Family-TreeSY/SpiderList/tree/master/maoyan)这个爬虫爬取效率很低！！我设置了delay，不设置么稍微一动就直接被封掉了，总共有23110页，每页有30条数据，总共693300条数据，就算不被ban掉，那得爬到猴年马月.................
 ![](http://m.qpic.cn/psb?/V10WDaE22S84Sl/YpE56Kh92bW7VYgfxOKF0xXwbjliiubEHdpLd3NizM8!/b/dPMAAAAAAAAA&bo=5AJ5AQAAAAADB7w!&rf=viewer_4)
 是时候去学习scrapy-redis分布式爬虫了.....................................
+12. [Scrapy-Redis分布式爬取自如网（一）](https://github.com/Family-TreeSY/SpiderList/blob/master/ziru/ziru/spiders/ziroom.py)，这几天学习了Scrapy-Redis分布式来提高爬取效率，也算是停留在舒适圈一段时间后往前走了一步！！
 
 
 ----------
