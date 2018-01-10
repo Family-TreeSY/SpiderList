@@ -15,8 +15,10 @@
 是时候去学习scrapy-redis分布式爬虫了.....................................
 12. [Scrapy-Redis分布式爬取自如网（一）](https://github.com/Family-TreeSY/SpiderList/blob/master/ziru/ziru/spiders/ziroom.py)，这几天学习了Scrapy-Redis分布式来提高爬取效率，也算是停留在舒适圈一段时间后往前走了一步！！
 
+13. [Scrapy-Redis分布式抓取链家上海房源（二）](https://github.com/Family-TreeSY/Scrapy-Redis-Spider/tree/master/lianjia)
 
 ----------
 
+[Scrapy-redis分布式爬虫](https://github.com/Family-TreeSY/Scrapy-Redis-Spider)
 
 这个爬虫集合我会不定时更新以此来督促自己学习！亲们！假如喜欢点个star呗！！！互勉！！！！！！！！
