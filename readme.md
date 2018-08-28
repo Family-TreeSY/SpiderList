@@ -22,3 +22,8 @@
 [Scrapy-redis分布式爬虫](https://github.com/Family-TreeSY/Scrapy-Redis-Spider)
 
 这个爬虫集合我会不定时更新以此来督促自己学习！亲们！假如喜欢点个star呗！！！互勉！！！！！！！！
+
+14. [Scrapy抓取理财](https://github.com/Family-TreeSY/SpiderList/tree/master/shoucainu)
+
+    
+
